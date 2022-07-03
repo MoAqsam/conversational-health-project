@@ -22,3 +22,6 @@ The frontend project is built using react and housed under `src/client`
 
 The backend project is build using nodejs/express and housed under `src/server`
 
+Overview of endpoint information is listed 
+[here](https://github.com/MoAqsam/conversational-health-project/tree/master/src/server/README.md)
+
